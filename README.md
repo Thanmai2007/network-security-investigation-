@@ -78,3 +78,28 @@ Display filter used:
 ```text
 tcp.port == 4444
 
+## Evidence Screenshots
+
+### 1. Kali Linux Environment
+![Kali Linux Environment](screenshots/01-kali-environment.jpeg)
+
+### 2. Kali Terminal
+![Kali Terminal](screenshots/02-kali-terminal.jpeg)
+
+### 3. Baseline Nmap Scan
+![Baseline Nmap Scan](screenshots/03-baseline-nmap-scan.jpeg)
+
+### 4. Ncat Listener on TCP Port 4444
+![Ncat Listener](screenshots/04-ncat-port-4444-listener.jpeg)
+
+### 5. Listening Service Verification Using ss
+![Listening Service Verification](screenshots/05-ss-listening-service.jpeg)
+
+### 6. Process Identification
+![Process Identification](screenshots/06-process-identification.jpeg)
+
+### 7. Ncat TCP Communication
+![Ncat TCP Communication](screenshots/07-ncat-tcp-communication.jpeg)
+
+### 8. Final Port Verification
+![Final Port Verification](screenshots/08-final-port-verification.jpeg)
